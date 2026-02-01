@@ -2,7 +2,7 @@
 Delhi Real-Time AQI Predictor | XGBoost R² 0.73 | Live APIs (AQICN+Open-Meteo) | Gradio HF Spaces 
 🚀 Bachao - Delhi Real-Time AQI Predictor  | XGBoost R² 0.73
 
-Live Demo: https://huggingface.co/spaces/25f3001314/Bachao
+Live Demo: https://ffd26b91eb839d2d93.gradio.live/
 
 PROBLEM: Delhi AQI 185-291 (Unhealthy). Need hourly ozone forecast for health alerts.
 
